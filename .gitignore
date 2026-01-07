@@ -1,0 +1,6 @@
+__pycache__/
+generated_art/
+models/ 
+venv/
+ui/
+snapshot/
